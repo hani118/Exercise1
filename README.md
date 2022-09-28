@@ -1,2 +1,3 @@
 # Exercise1
-software construction
+software construction and developmeny
+my first practice
